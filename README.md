@@ -5,11 +5,11 @@ The Iris flower dataset is a classic machine learning dataset that consists of m
 # Project Objectives
 The main objectives of this project were:
 
-Load and preprocess the Iris dataset, handling any missing values and encoding the target variable.
-Split the dataset into training and testing sets.
-Train a Random Forest Classifier model on the training data.
-Evaluate the model's performance using accuracy, classification report, and confusion matrix.
-Visualize the confusion matrix to understand the model's performance on each Iris species.
+* Load and preprocess the Iris dataset, handling any missing values and encoding the target variable.
+* Split the dataset into training and testing sets.
+* Train a Random Forest Classifier model on the training data.
+* Evaluate the model's performance using accuracy, classification report, and confusion matrix.
+* Visualize the confusion matrix to understand the model's performance on each Iris species.
 
 # Implementation
 The project is implemented in Python using the following libraries:
@@ -17,7 +17,8 @@ The project is implemented in Python using the following libraries:
 * `pandas`: for data manipulation and analysis
 * `sklearn`: for machine learning algorithms, evaluation metrics, and preprocessing
 * `matplotlib`: for data visualization
-The code is organized in a Jupyter Notebook and can be found in the iris-flower-classification.ipynb file.
+
+The code is organized in a Jupyter Notebook and can be found in the Iris_Flower_Classification.ipynb file.
 
 # Results
 After loading and preprocessing the Iris dataset, I split it into training and testing sets. I then trained a Random Forest Classifier model on the training data and evaluated its performance on the test set.
